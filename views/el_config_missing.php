@@ -1,0 +1,1 @@
+<p>You need to enter your Invoicexpress credential on the <a href="<?php echo admin_url( "options-general.php?page=rc_invoicexpress_options" ) ?>">settings page</a>.</p>
